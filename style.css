@@ -1,6 +1,12 @@
-.cabecalho{
-   background-color: blueviolet; 
+body{
+   background-color: brown;
 }
-
-
-
+h1{
+text-align: center;
+font-size: 30px;
+color: #f71a1a;
+}
+p{
+ text-align: center
+font-size;30px
+}
